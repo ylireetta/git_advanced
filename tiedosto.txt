@@ -3,4 +3,4 @@ Tiedostossa sisältöä
 Muutos development-haarassa
 Lisää muutoksia, kokeillaan piakkoin rebasea ja commitien siistimistä!
 
-Muutetaan tätäkin tiedostoa, stash-testi
+Muutos development-haarassa
