@@ -8,3 +8,5 @@ Muutos development-haarassa
 Ja kokeillaan stash
 
 Rebase tulossa, jänskää
+
+Tänne taas muutoksia... Mutta tämä commit onkin ok, ei tarvi poistaa mitään!
