@@ -5,3 +5,5 @@ Muokkaillaan ja hengaillaan
 Kokeillaan dev-haarassa jotain
 
 Attempt numero two
+
+Yritän siivota committeja samasta haarasta

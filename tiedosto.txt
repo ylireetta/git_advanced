@@ -6,3 +6,5 @@ Lisää muutoksia, kokeillaan piakkoin rebasea ja commitien siistimistä!
 Muutos development-haarassa
 
 Ja kokeillaan stash
+
+Rebase tulossa, jänskää
